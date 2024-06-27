@@ -1,0 +1,54 @@
+{
+  "name": "@zeeshankhan09/typescript-project04_currency_converter",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "ansi-escapes": "^4.3.2",
+    "ansi-regex": "^5.0.1",
+    "ansi-styles": "^4.3.0",
+    "base64-js": "^1.5.1",
+    "bl": "^4.1.0",
+    "chalk": "^5.3.0",
+    "chardet": "^0.7.0",
+    "cli-cursor": "^3.1.0",
+    "cli-spinners": "^2.9.2",
+    "cli-width": "^4.1.0",
+    "clone": "^1.0.4",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "defaults": "^1.0.4",
+    "define-data-property": "^1.1.4",
+    "emoji-regex": "^8.0.0",
+    "inquirer": "^9.2.23",
+    "safe-buffer": "^5.2.1",
+    "safer-buffer": "^2.1.2",
+    "set-function-length": "^1.2.2",
+    "signal-exit": "^3.0.7",
+    "string_decoder": "^1.3.0",
+    "string-width": "^4.2.3",
+    "strip-ansi": "^6.0.1",
+    "supports-color": "^7.2.0",
+    "tmp": "^0.0.33",
+    "tslib": "^2.6.3",
+    "type-fest": "^0.21.3",
+    "util-deprecate": "^1.0.2",
+    "wcwidth": "^1.0.1",
+    "wrap-ansi": "^6.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "M Zeeshan Khan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.7"
+  }
+}
